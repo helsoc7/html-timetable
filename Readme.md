@@ -2,7 +2,7 @@
 
 ---
 # Aufgabe
-[![GitHub Classroom Workflow](https://github.com/helsoc7/timetable-html-sol/actions/workflows/classroom.yml/badge.svg)](https://github.com/helsoc7/timetable-html-sol/actions/workflows/classroom.yml) [![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions) 
+[![GitHub Classroom Workflow](https://github.com/helsoc7/html-timetable/actions/workflows/classroom.yml/badge.svg)](https://github.com/helsoc7/html-timetable/actions/workflows/classroom.yml) [![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions) 
 
 Eure Aufgabe ist es, eine HTML-Datei namens timetable.html zu erstellen, die einen einfachen Stundenplan für eine Woche darstellt.
 * 100 Punkte
